@@ -1,31 +1,32 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+    title: 'Cycletourist 1',
+    subtitle: 'We are two Cycle-Tourists who want to be happy and travel the world!',
+    copyright: '© Some rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Posts',
         path: '/'
       },
       {
-        label: 'About me',
+        label: 'About us',
         path: '/about/'
       },
       {
-        label: 'Contact me',
+        label: 'Contact us',
         path: '/contact/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
+      name: 'Mehdi & Soheila',
+      email: 'shahri53@gmail.com',
+      telegram: 'https://telegram.me/cycletourist1',
+      isntagram: 'https://www.instagram.com/cycletourist1/',
+      twitter: 'https://twitter.me/cycletourist1',
+      github: 'https://github.com/cycletourist1',
+      rss: 'https://cycletourist1.ir/rss.xml',
       vk: '#'
     }
   },
